@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dilema4000@gmail.com
+	name = diego marin
